@@ -4,7 +4,7 @@ A sidescroller game underneath the sea where the aim is to get the highest score
 
 This game is using Phaser as the main framework with JavaScript and HTML/CSS. Playable on both your laptop (recommended on Chrome) and phone.
 
-[Start playing!](https://reefrunner.herokuapp.com/)
+[Start playing!](https://reef-runner.vercel.app/)
 
 ## Dependencies
 
